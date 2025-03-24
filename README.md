@@ -1,15 +1,3 @@
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=l1quidwater&langs_count=12)](https://github.com/anuraghazra/github-readme-stats)
-
-<img src="https://raw.githubusercontent.com/l1quidwater/l1quidwater/output/snake.svg" alt="Snake animation" />
-
-###
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=l1quidwater&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=l1quidwater&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
-</div>
-
-###
 
 <div align="center">
   <img src="https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black&style=for-the-badge" height="40" alt="linux logo"  />
