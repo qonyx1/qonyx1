@@ -1,4 +1,9 @@
-<h2 align="center">🐍 Python backend developer</h2>
+<p>
+  <a href="https://www.buymeacoffee.com/onyxllc">
+    <img align="center" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="onyxllc"/>
+  </a>
+</p>
+
 
 <p align="center">
   <a href="https://aws.amazon.com" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" width="40" height="40" alt="aws"/></a>
@@ -28,10 +33,3 @@
   <a href="https://www.tensorflow.org" target="_blank"><img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" width="40" height="40" alt="tensorflow"/></a>
   <a href="https://zapier.com" target="_blank"><img src="https://www.vectorlogo.zone/logos/zapier/zapier-icon.svg" width="40" height="40" alt="zapier"/></a>
 </p>
-
-<p>
-  <a href="https://www.buymeacoffee.com/onyxllc">
-    <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="onyxllc"/>
-  </a>
-</p>
-
