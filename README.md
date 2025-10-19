@@ -11,41 +11,36 @@
 <h1></h1>
 
 <p align="center">
-  <a href="https://fastapi.tiangolo.com/" target="_blank">
-    <img src="https://raw.githubusercontent.com/techicons/fastapi/main/svg/fastapi.svg" width="40" height="40" alt="fastapi"/>
+  <a href="https://www.redhat.com/" target="_blank">
+    <img src="https://icon.icepanel.io/Technology/svg/Red-Hat.svg" width="40" height="40" alt="Red Hat"/>
   </a>
-  <a href="https://www.proton.me/mail" target="_blank">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/2/2f/Proton_Mail_logo.svg" width="40" height="40" alt="Proton Mail"/>
+  <a href="https://vercel.com/" target="_blank">
+    <img src="https://icon.icepanel.io/Technology/png-shadow-512/Vercel.png" width="40" height="40" alt="Vercel"/>
   </a>
-  <a href="https://www.wireguard.com/" target="_blank">
-    <img src="https://commons.wikimedia.org/wiki/File:Logo_of_WireGuard.svg?image=Logo_of_WireGuard.svg" width="40" height="40" alt="WireGuard"/>
-  </a>
-  <a href="https://mullvad.net" target="_blank">
-    <img src="https://seeklogo.com/images/M/mullvad-vpn-logo-5421142A00-seeklogo.com.svg" width="40" height="40" alt="Mullvad VPN"/>
+  <a href="https://www.vim.org/" target="_blank">
+    <img src="https://icon.icepanel.io/Technology/svg/Vim.svg" width="40" height="40" alt="Vim"/>
   </a>
   <a href="https://code.visualstudio.com/" target="_blank">
-    <img src="https://raw.githubusercontent.com/microsoft/vscode/main/resources/linux/code.png" width="40" height="40" alt="VSCode"/>
+    <img src="https://icon.icepanel.io/Technology/svg/Visual-Studio-Code-%28VS-Code%29.svg" width="40" height="40" alt="VSCode"/>
   </a>
-  <a href="https://getfedora.org/" target="_blank">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/3/37/Fedora_logo.svg" width="40" height="40" alt="Fedora"/>
+  <a href="https://www.microsoft.com/windows" target="_blank">
+    <img src="https://icon.icepanel.io/Technology/svg/Windows-11.svg" width="40" height="40" alt="Windows 11"/>
   </a>
   <a href="https://ubuntu.com/" target="_blank">
-    <img src="https://assets.ubuntu.com/v1/29985a98-ubuntu-logo32.svg" width="40" height="40" alt="Ubuntu"/>
+    <img src="https://icon.icepanel.io/Technology/svg/Ubuntu.svg" width="40" height="40" alt="Ubuntu"/>
+  </a>
+  <a href="https://getfedora.org/" target="_blank">
+    <img src="https://icon.icepanel.io/Technology/svg/Fedora.svg" width="40" height="40" alt="Fedora"/>
   </a>
   <a href="https://atom.io/" target="_blank">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/d/d0/Atom_1.0_icon.png" width="40" height="40" alt="Atom"/>
+    <img src="https://icon.icepanel.io/Technology/png-shadow-512/Atom.png" width="40" height="40" alt="Atom"/>
   </a>
-  <a href="https://www.gnome.org/" target="_blank">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/9/9c/Gnome-logo.svg" width="40" height="40" alt="GNOME"/>
+  <a href="https://www.gitbook.com/" target="_blank">
+    <img src="https://icon.icepanel.io/Technology/svg/GitBook.svg" width="40" height="40" alt="GitBook"/>
   </a>
-  <a href="https://kde.org/" target="_blank">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/4/47/Kde_logo.svg" width="40" height="40" alt="KDE"/>
+  <a href="https://www.portainer.io/" target="_blank">
+    <img src="https://icon.icepanel.io/Technology/svg/Portainer.svg" width="40" height="40" alt="Portainer"/>
   </a>
-  <a href="https://neovim.io/" target="_blank">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/9/9f/Neovim-logo.svg" width="40" height="40" alt="Neovim"/>
-  </a>
-
-  <!-- The existing icons you had (unchanged) -->
   <a href="https://aws.amazon.com" target="_blank">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" width="40" height="40" alt="aws"/>
   </a>
@@ -83,7 +78,7 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" width="40" height="40" alt="html5"/>
   </a>
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width=“40” height=“40” alt="javascript"/>
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40" height="40" alt="javascript"/>
   </a>
   <a href="https://jekyllrb.com/" target="_blank">
     <img src="https://www.vectorlogo.zone/logos/jekyllrb/jekyllrb-icon.svg" width="40" height="40" alt="jekyll"/>
